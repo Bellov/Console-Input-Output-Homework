@@ -1,0 +1,6 @@
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe.config
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.exe
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\bin\Debug\01.SumOf3Numbers.pdb
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.exe
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\01.SumOf3Numbers\obj\Debug\01.SumOf3Numbers.pdb

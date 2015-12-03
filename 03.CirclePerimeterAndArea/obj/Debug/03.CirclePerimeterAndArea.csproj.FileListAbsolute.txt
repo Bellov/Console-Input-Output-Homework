@@ -1,0 +1,6 @@
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+F:\Develop\SoftUniHomeWork\Console-Input-Output-Homework\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
